@@ -1,0 +1,32 @@
+.bgc-grey {
+    background-color: rgb(229, 220, 220);
+}
+.body {
+    text-align: center;
+    display: block;
+    margin: 80px;
+}
+#box1 {
+    background-color: 	#ADD8E6;
+    width: 35%;
+    height: 85px;
+    margin: 1.2px;
+    float:left;
+}
+#box2 {
+    background-color: 	#87CEEB;
+    width: 20%;
+    height: 85px;
+    margin: 1.2px;
+    float: left;
+}
+#box3 {
+    background-color: 	#87CEFA;
+    width: 35%;
+    height: 85px;
+    margin: 1.2px;
+    float: left;
+}
+.mleft {
+    margin-left: 100px;
+}
